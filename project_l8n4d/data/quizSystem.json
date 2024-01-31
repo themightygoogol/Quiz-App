@@ -1,0 +1,83 @@
+{"users": [
+    {
+        "password": "",
+        "quizzes": [
+            {
+                "name": "bruh",
+                "questions": [{
+                    "question": "if tiffanay breaks her tail bone, what effect does this have on her ability to do her math exam",
+                    "answer": "she can't do it sitting down"
+                }]
+            },
+            {
+                "name": "dankmemerquiz",
+                "questions": [{
+                    "question": "1+1",
+                    "answer": "2"
+                }]
+            }
+        ],
+        "username": "public"
+    },
+    {
+        "password": "ilikefortnite",
+        "quizzes": [
+            {
+                "name": "very personal quiz",
+                "questions": [
+                    {
+                        "question": "if johnny has a bouqet of 10 flowers and gives it to his crush vanessa but he gets rejected so he begins crying and due to his blurry vision he now sees 20 flowers, how many flowers does he actually have?",
+                        "answer": "10"
+                    },
+                    {
+                        "question": "how many times does kanye east say 'fortnite balls' in his song fortnite balls",
+                        "answer": "1"
+                    },
+                    {
+                        "question": "what is long, hard and has cum in it?",
+                        "answer": "cucumber"
+                    },
+                    {
+                        "question": "how many bitches do you have",
+                        "answer": "0"
+                    }
+                ]
+            },
+            {
+                "name": "dankmemerquiz",
+                "questions": [{
+                    "question": "1+1",
+                    "answer": "2"
+                }]
+            }
+        ],
+        "username": "forest"
+    },
+    {
+        "password": "123",
+        "quizzes": [],
+        "username": "bob"
+    },
+    {
+        "password": "123",
+        "quizzes": [{
+            "name": "bruh",
+            "questions": [
+                {
+                    "question": "if tiffanay breaks her tail bone, what effect does this have on her ability to do her math exam",
+                    "answer": "she can't do it sitting down"
+                },
+                {
+                    "question": "123=?",
+                    "answer": "123"
+                }
+            ]
+        }],
+        "username": "dankmemer"
+    },
+    {
+        "password": "password",
+        "quizzes": [],
+        "username": "bryan"
+    }
+]}

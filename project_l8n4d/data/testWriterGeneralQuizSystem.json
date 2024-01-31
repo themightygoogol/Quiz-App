@@ -1,0 +1,18 @@
+{"users": [
+    {
+        "password": "",
+        "quizzes": [],
+        "username": "public"
+    },
+    {
+        "password": "password",
+        "quizzes": [{
+            "name": "math quiz",
+            "questions": [{
+                "question": "1+1",
+                "answer": "2"
+            }]
+        }],
+        "username": "username"
+    }
+]}
